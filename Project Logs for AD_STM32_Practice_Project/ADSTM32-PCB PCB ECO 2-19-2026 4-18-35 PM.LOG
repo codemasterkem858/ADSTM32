@@ -1,0 +1,9 @@
+Added Component: Designator=U100(SOT-23-6)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Panufacturer Part Number"; Value = "LTC3405ES6#TRMPBF"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=U100-1
+Added Pin To Net: NetName=GND Pin=U100-2
+Added Pin To Net: NetName=BUCK_SW Pin=U100-3
+Added Pin To Net: NetName=+5V Pin=U100-4
+Added Pin To Net: NetName=BUCK_VFB Pin=U100-5
+Added Pin To Net: NetName=GND Pin=U100-6

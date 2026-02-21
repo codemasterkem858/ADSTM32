@@ -1,0 +1,43 @@
+Altium Designer Pick and Place Locations
+C:\Users\Public\Documents\Altium\AD_STM32_Practice_Project\Project Outputs for AD_STM32_Practice_Project\Pick Place for ADSTM32-PCB.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       21/02/26
+Time:       13:42
+Revision:   7858c00ef288875c15649aaf1131937b72c5fcb0
+Variant:    No variations
+Units used: mil
+
+Designator Comment           Layer    Footprint        Center-X(mil) Center-Y(mil) Rotation Description                                                                                              
+J300       SM06B-GHS-TB      TopLayer SM06B-GHS-TB     260.827       -436.024      0        "Header Connector 6 Position 1.25MM Pitch SMD Horizontal JST GH"                                         
+U100       LTC3405ES6#TRMPBF TopLayer SOT-23-6         -305.118      196.850       270      "1.5MHz, 300mA Synchronous Step-Down Regulator in ThinSOT"                                               
+J100       USB4101-GF-A-060  TopLayer USB4105-GF-A-060 -738.169      0.000         270      "USB connector Type C SMT 12 pin"                                                                        
+X200       24MHz             TopLayer XTAL_3225        661.417       23.622        90       "Crystal SMD 24MHz 10PPM 9pF"                                                                            
+U300       BMI088            TopLayer BMI088           196.850       374.016       0        "Inertial Measurement Unit (IMU) 6-axis 16bit"                                                           
+U200       STM32F042G6U6     TopLayer STM-UFQFPN28_V   348.425       123.032       180      "ARM Cortex-M0 32-bit MCU, 32 KB Flash, 6 KB Internal RAM, 24 I/Os, 28-Pin UFQFPN, -40 to 85 degC, Tray" 
+R202       5k1               TopLayer RES_0603         482.284       -39.370       90       "Resistor SMD 0603 Generic"                                                                              
+R201       5k1               TopLayer RES_0603         451.772       -246.063      0        "Resistor SMD 0603 Generic"                                                                              
+R200       5k1               TopLayer RES_0603         343.504       -246.063      180      "Resistor SMD 0603 Generic"                                                                              
+R103       5k1               TopLayer RES_0603         -688.976      246.063       180      "Resistor SMD 0603 Generic"                                                                              
+R102       5k1               TopLayer RES_0603         -687.992      -275.591      180      "Resistor SMD 0603 Generic"                                                                              
+R101       280k              TopLayer RES_0603         -314.961      88.583        180      "Resistor SMD 0603 Generic"                                                                              
+R100       887k              TopLayer RES_0603         -157.480      58.071        270      "Resistor SMD 0603 Generic"                                                                              
+L100       10u               TopLayer FP-NRH2412-MFG   -374.016      344.488       90       "Shielded Wirewound Inductor 10uH 20% 0.51A 0.72O SMD"                                                   
+J200       TC2030-IDC-NL     TopLayer TC2030_NL        78.740        -118.110      0        "Tag-Connect No-Solder SWD Debug Connector (No Legs)"                                                    
+FB200      120R              TopLayer FB_0603          610.236       285.433       90       "Ferrite Beads BMC-Q 0603 120R 25% Tol. High Current"                                                    
+FB100      120R              TopLayer FB_0603          -531.496      135.827       0        "Ferrite Beads BMC-Q 0603 120R 25% Tol. High Current"                                                    
+C301       100n              TopLayer CAP_0603         206.693       265.748       180      "Capaictor SMD 0603 Generic"                                                                             
+C300       100n              TopLayer CAP_0603         206.693       482.284       180      "Capaictor SMD 0603 Generic"                                                                             
+C205       100n              TopLayer CAP_0603         511.811       287.401       270      "Capaictor SMD 0603 Generic"                                                                             
+C204       100n              TopLayer CAP_0603         561.024       374.016       0        "Capaictor SMD 0603 Generic"                                                                             
+C203       10p               TopLayer CAP_0603         572.835       82.677        90       "Capaictor SMD 0603 Generic"                                                                             
+C202       10p               TopLayer CAP_0603         572.835       -25.591       270      "Capaictor SMD 0603 Generic"                                                                             
+C201       100n              TopLayer CAP_0603         216.536       157.480       270      "Capaictor SMD 0603 Generic"                                                                             
+C200       100n              TopLayer CAP_0603         177.165       -275.591      180      "Capaictor SMD 0603 Generic"                                                                             
+C104       22p               TopLayer CAP_0603         -216.535      57.087        270      "Capaictor SMD 0603 Generic"                                                                             
+C103       4u7               TopLayer CAP_0805         -403.543      206.693       270      "Capacitor SMD 0805 Generic"                                                                             
+C102       4u7               TopLayer CAP_0805         -265.748      344.488       90       "Capacitor SMD 0805 Generic"                                                                             
+C101       100n              TopLayer CAP_0603         -501.969      224.409       270      "Capaictor SMD 0603 Generic"                                                                             
+C100       100n              TopLayer CAP_0603         -561.024      224.409       270      "Capaictor SMD 0603 Generic"                                                                             

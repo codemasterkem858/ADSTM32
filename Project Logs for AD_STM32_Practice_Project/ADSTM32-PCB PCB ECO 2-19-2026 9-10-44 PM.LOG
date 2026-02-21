@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=C202-1
+Removed Pin From Net: NetName=+3V3 Pin=C202-2
+Change Component Designator: OldDesignator=C203 NewDesignator=C202
+Change Component Designator: OldDesignator=C204 NewDesignator=C203
+Change Component Designator: OldDesignator=C205 NewDesignator=C204
+Change Component Designator: OldDesignator=C206 NewDesignator=C205

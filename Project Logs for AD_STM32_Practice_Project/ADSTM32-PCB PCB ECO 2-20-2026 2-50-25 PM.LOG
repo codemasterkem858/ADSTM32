@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=USB_D_P Pin=U200-19
+Removed Pin From Net: NetName=USB_D_N Pin=U200-20
+Added Pin To Net: NetName=USB_D_N Pin=U200-19
+Added Pin To Net: NetName=USB_D_P Pin=U200-20
+Change Net Color : Old Net Color=RGB(158, 161, 117) New Net Color=Default
