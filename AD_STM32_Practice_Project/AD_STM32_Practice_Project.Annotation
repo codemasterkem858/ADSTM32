@@ -1,0 +1,19 @@
+[DesignatorManager]
+
+[SheetNumberManager]
+SheetNumberOrder=Display Order
+SheetNumberMethod=Increasing
+DocumentName0=0_ADSTM32-Overview.SchDoc
+UniqueIDPath0=
+SheetNumber0=1
+DocumentName1=1_ADSTM32-Power.SchDoc
+UniqueIDPath1=\WXGJTETQ
+SheetNumber1=2
+DocumentName2=2_ADSTM32-MCU.SchDoc
+UniqueIDPath2=\HCXONSTK
+SheetNumber2=3
+DocumentName3=3_ADSTM32-Peripheral.SchDoc
+UniqueIDPath3=\VOPVAIAU
+SheetNumber3=4
+
+
